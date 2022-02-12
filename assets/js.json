@@ -1,0 +1,48 @@
+[
+    {
+        "1": "Inside which HTML element do we put the JavaScript?",
+        "2": "How to write an IF statement in JavaScript?",
+        "3": "Which operator is used to assign a value to a variable?",
+        "4": "Which event occurs when the user clicks on an HTML element?",
+        "5": "How to write an IF statement for executing some code if "i" is NOT equal to 2?"
+    },
+    {
+        "1": {
+            "a": "<javascript>",
+            "b": "<script>",
+            "c": "<scripting>",
+            "d": "<js>"
+        },
+        "2": {
+            "a": "if i == 5 ",
+            "b": "if(i == 5)",
+            "c": "if i = 5",
+            "d": "if(i = 5)"
+        },
+        "3": {
+            "a": "*",
+            "b": "-",
+            "c": "=",
+            "d": "X"
+        },
+        "4": {
+            "a": "onmouseclick",
+            "b": "onmouseover",
+            "c": "onclick",
+            "d": "onchange"
+        },
+        "5": {
+            "a": "if i=!2",
+            "b": "if (i<>2)",
+            "c": "if i<>2",
+            "d": "if (i!=2)"
+        }
+    },
+    {
+        "1": "<script>",
+        "2": "if(i == 5)",
+        "3": "=",
+        "4": "onclick",
+        "5": "if (i!=2)"
+    }
+]

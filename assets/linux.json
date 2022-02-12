@@ -1,0 +1,48 @@
+[
+    {
+        "1": "Which of the following is not a variant of UNIX?",
+        "2": "In which language are the system calls implemented in Unix?",
+        "3": "What approach does an application use to communicate with the kernel?",
+        "4": "What is the command to change the group ownership of a file?",
+        "5": "Which command creates an empty file if it does not exist?"
+    },
+    {
+        "1": {
+            "a": "Solaris",
+            "b": "AIX",
+            "c": "IRIX",
+            "d": "AS400"
+        },
+        "2": {
+            "a": "C",
+            "b": "C++",
+            "c": "Assembly",
+            "d": "Fortran"
+        },
+        "3": {
+            "a": "System Calls",
+            "b": "C Programs",
+            "c": "Shell Script",
+            "d": "Shell"
+        },
+        "4": {
+            "a": "cgrp",
+            "b": "chgrp",
+            "c": "change",
+            "d": "group"
+        },
+        "5": {
+            "a": "ed",
+            "b": "cat",
+            "c": "touch",
+            "d": "read"
+        }
+    },
+    {
+        "1": "AS400",
+        "2": "C",
+        "3": "System Calls",
+        "4": "chgrp",
+        "5": "touch"
+    }
+]

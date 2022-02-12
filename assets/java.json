@@ -1,0 +1,48 @@
+[
+    {
+        "1": "What is the size of boolean variable?",
+        "2": "Which of the following is a reserved word ?",
+        "3": "How many alternatives are there for a single if-else statement?",
+        "4": "To make sure that a number is positive, we determine what value:",
+        "5": "Which term is used to hide object details?"
+    },
+    {
+        "1": {
+            "a": "8 bit",
+            "b": "16 bit",
+            "c": "32 bit",
+            "d": "not defined"
+        },
+        "2": {
+            "a": "apple",
+            "b": "7up",
+            "c": "grandtotal",
+            "d": "boolean"
+        },
+        "3": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+        },
+        "4": {
+            "a": "current value",
+            "b": "real value",
+            "c": "absolute value",
+            "d": "Mega value"
+        },
+        "5": {
+            "a": "Obfustikation",
+            "b": "Data Mining",
+            "c": "Compilation",
+            "d": "Encapsulation"
+        }
+    },
+    {
+        "1": "16 bit",
+        "2": "boolean",
+        "3": "2",
+        "4": "absolute value",
+        "5": "Encapsulation"
+    }
+]

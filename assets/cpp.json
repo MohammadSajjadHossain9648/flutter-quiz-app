@@ -1,0 +1,48 @@
+[
+    {
+        "1": "Which of the following is not a C++ Header file ?",
+        "2": "Which data type is used to create a variable that should store text?",
+        "3": "Which keyword is used to create a class in C++?",
+        "4": "How do you start writing a while loop in C++?",
+        "5": "Which keyword is used to return a value inside a method?",
+    },
+    {
+        "1": {
+            "a": "conio.h",
+            "b": "cstdlib.h",
+            "c": "stdio.h",
+            "d": "math.h"
+        },
+        "2": {
+            "a": "Txt",
+            "b": "String",
+            "c": "myString",
+            "d": "string"
+        },
+        "3": {
+            "a": "className",
+            "b": "class()",
+            "c": "MyClass",
+            "d": "class"
+        },
+        "4": {
+            "a": "x > y while {",
+            "b": "while (x > y)",
+            "c": "while x > y:",
+            "d": "while x > y {"
+        },
+       "5": {
+            "a": "break",
+            "b": "get",
+            "c": "void",
+            "d": "return"
+        }
+    },
+    {
+        "1": "stdio.h",
+	"2": "string",
+        "3": "class",
+        "4": "while (x > y)",
+        "5": "return"
+    }
+]

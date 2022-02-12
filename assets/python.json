@@ -1,0 +1,48 @@
+[
+  {
+    "1":"Which one is NOT a legal variable name?",
+    "2":"What is the correct file extension for Python files?",
+    "3":"Which method can be used to remove any whitespace from both the beginning and the end of a string?",
+    "4":"Which method can be used to replace parts of a string?",
+    "5":"Which operator is used to multiply numbers?"
+  },
+  {
+     "1":{
+	  "a": "my-var",
+	  "b": "my_var",
+	  "c": "_myvar",
+	  "d": "Myvar"		
+	 },
+     "2":{
+	  "a": ".py",
+	  "b": ".pt",
+	  "c": ".pyth",
+	  "d": ".pyt"			
+	 },
+     "3":{
+	  "a": "trim()",
+	  "b": "strip()",
+	  "c": "len()",
+	  "d": "ptrim()"			
+	 },
+     "4":{
+	  "a": "repl()",
+	  "b": "switch()",
+	  "c": "String()",
+	  "d": "replace()"			
+	 },
+    "5":{
+	  "a": "#",
+	  "b": "*",
+	  "c": "%",
+	  "d": "X"			
+	 }
+  },
+  {
+    "1":"my-var",
+    "2":".py",
+    "3":"strip()",
+    "4":"replace()",
+    "5":"*"
+  }
+]
